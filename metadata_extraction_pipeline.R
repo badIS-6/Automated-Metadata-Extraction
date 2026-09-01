@@ -60,7 +60,7 @@ stopwords <- c(
   "general", "main", "selected", "available", "associated",
   "related", "based", "defined", "identified", "estimated",
   "observed", "measured", "recorded", "reported", "associations", 
-  "basic", "batches", "cells", "centers", "cereal", "cold", "collection", "collective", 
+  "basic", "batches", "cells", "centers", "cold", "collection", "collective", 
   "crda", "crees", "delegation", "extension", "gdaps", "gdas", "governorate", "groups", 
   "infrastructure", "interest", "june", "outreach", "port", "region", "storage", "technician", "year",
   "january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november",
